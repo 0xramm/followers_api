@@ -1,0 +1,16 @@
+{
+  "name": "followers-api",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js",
+    "dev": "nodemon api.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "playwright": "^1.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
